@@ -24,6 +24,12 @@ The primary objective is to address the issue of negative profits in certain cit
 - How the trends of Sales and Profit varies over the years?
 - What are key objectives for receiving negative projects in some cities?
 
+## Process
+ - Verify data for any missing values and anomalies, and sort out them.
+ - Made sure data is consistent and clean with respect to data type, data format and values used.
+ - Create Dashboards according to the questions asked.
+ - Make the Dashboard interactive to the user.
+
 ## Dashboards
 
 - Sales Analysis Dashboard <a href = https://github.com/PavanKumar1905/Superstore_Dashboard/blob/main/Screenshot%20(446).png > View Sales Dashboard </a>
@@ -34,3 +40,12 @@ The primary objective is to address the issue of negative profits in certain cit
 - Which State and City has the least Profit <a href = https://github.com/PavanKumar1905/Superstore_Dashboard/blob/main/Screenshot%20(449).png> View Dashboard </a>
 - What is happening at the Subcategory level Sales for Huston <a href = https://github.com/PavanKumar1905/Superstore_Dashboard/blob/main/Screenshot%20(450).png> View Dashboard </a>
 - Which products are sold with huge losess and why? <a href = https://github.com/PavanKumar1905/Superstore_Dashboard/blob/main/Screenshot%20(451).png> View Dashboard </a>
+
+## Superstore Analysis
+  Based on these dashboards we understand that which states, cities, Categories, Sub Categories are  good at sales and bad at sales along with which are producing more 
+  profits and  which are producing less profits.
+  
+## Project Insights
+   The analysis reveals that excessive discounts in certain cities are resulting in negative profits despite strong sales performance. Some products are being sold with 
+   discounts as high as 50%, significantly impacting profitability. Additionally, every order includes a minimum discount of 20%, further reducing profit margins. It is 
+   evident that optimizing the discount strategy can significantly enhance the Superstore's overall profitability.
