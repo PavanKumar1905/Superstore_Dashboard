@@ -43,7 +43,8 @@ The primary objective is to address the issue of negative profits in certain cit
 
 ## Superstore Analysis
   Based on these dashboards we understand that which states, cities, Categories, Sub Categories are  good at sales and bad at sales along with which are producing more 
-  profits and  which are producing less profits.
+  profits and  which are producing less profits. We also observe the top 10 Customers with high sales, top 10 who involved high profits and top 10 customers with more orders 
+  in this analysis.
   
 ## Project Insights
    The analysis reveals that excessive discounts in certain cities are resulting in negative profits despite strong sales performance. Some products are being sold with 
